@@ -59,7 +59,7 @@ El Serial Plotter recibe la señal PPG procesada a 115200 baudios. En el sketch 
 - **Adafruit ST7735 and ST7789 Library**
 - **PulseSensor Playground**
 
-Abre `PulseSensor_TFT_Buzzer.ino`, selecciona la placa ESP32 correspondiente y el puerto serial. Instala las bibliotecas indicadas desde el Library Manager del Arduino IDE antes de compilar. La velocidad serial del monitor y del Serial Plotter debe configurarse en **115200 baudios**.
+Abre `PULSESENSOR.ino`, selecciona la placa ESP32 correspondiente y el puerto serial. Instala las bibliotecas indicadas desde el Library Manager del Arduino IDE antes de compilar. La velocidad serial del monitor y del Serial Plotter debe configurarse en **115200 baudios**.
 
 ## Pruebas realizadas
 
